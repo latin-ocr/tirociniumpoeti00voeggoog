@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tirociniumpoeti00voeggoog_0070.png"; bbox 0 0 2700 4282; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 1655 968 1780">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 1655 968 1780">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 1655 968 1780; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 118 1747 120 1752; x_wconf 82' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 329 1657 522 1773; x_wconf 77' lang='lat' dir='ltr'>ZESDE</span> <span class='ocrx_word' id='word_1_3' title='bbox 567 1655 968 1780; x_wconf 80' lang='lat' dir='ltr'><strong>HOOFDSTUK.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 572 1983 747 1999">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 572 1983 747 1999">
+     <span class='ocr_line' id='line_1_2' title="bbox 572 1983 747 1999; baseline -0.006 -3"><span class='ocrx_word' id='word_1_4' title='bbox 572 1983 747 1999; x_wconf 55' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 390 2199 908 2278">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 390 2199 908 2278">
+     <span class='ocr_line' id='line_1_3' title="bbox 390 2199 908 2278; baseline 0.008 -4"><span class='ocrx_word' id='word_1_5' title='bbox 390 2204 553 2278; x_wconf 79' lang='lat' dir='ltr'>VERSUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 579 2199 693 2276; x_wconf 75' lang='lat' dir='ltr'>VARH</span> <span class='ocrx_word' id='word_1_7' title='bbox 718 2205 908 2278; x_wconf 80' lang='lat' dir='ltr'><strong>GENERIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1354 4282">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1354 4282">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1354 4282; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1354 4282; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
